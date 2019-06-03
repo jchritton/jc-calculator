@@ -1,0 +1,29 @@
+{
+  "name": "jc-calculator",
+  "version": "0.0.1",
+  "description": "A basic calculator created using TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchritton/jc-calculator.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "node",
+    "calculator",
+    "freecodecamp"
+  ],
+  "author": "John Chritton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jchritton/jc-calculator/issues"
+  },
+  "homepage": "https://github.com/jchritton/jc-calculator#readme",
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
+}
